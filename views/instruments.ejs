@@ -1,0 +1,22 @@
+<div class="books-section">
+
+    <div class="books-title">
+        <h2>Books And Music Instruments</h2>
+        <button>View All</button>
+        <p>Shop Now!</p>
+    </div>
+
+    <div class="books-content">
+
+        <% instruments.forEach(instrument => { %>
+            <a href="#"><div class="books-item">
+                <div class="books-item-image">
+                    <img src="<%= instrument.image %>" alt="<%= instrument.title %>">
+                </div>
+                <p><%= instrument.title %></p>
+                <p><%= instrument.offer %></p>
+                <p><%= instrument.feature %></p>
+            </div></a>
+        <% }); %>
+    </div>
+</div>

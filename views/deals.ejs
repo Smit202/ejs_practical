@@ -1,0 +1,36 @@
+<div class="deals-container">
+    <div class="deals">
+
+        <div class="deals-title">
+            <h2>Deals of the Day</h2>
+            <div class="deals-timer">
+                <img class="_1WXTS9" src="//web.archive.org/web/20211231131744im_/https://static-assets-web.flixcart.com/www/linchpin/fk-cp-zion/img/timer_a73398.svg" height="24" width="24">
+                <p>&nbsp&nbsp 22 : 07 : 36 Left</p>
+            </div>
+            <button>View All</button>
+        </div>
+
+        <div class="deals-content-container">
+
+            <% deals.forEach(deal => { %>
+                <div class="deals-content">
+                    <a href="#"><div class="deals-item">
+                        <div class="deals-item-image">
+                            <img src="<%= deal.image %>" alt="<%= deal.title %>">
+                        </div>
+                        <p><%= deal.title %></p>
+                        <p><%= deal.offer %></p>
+                        <p><%= deal.feature %></p>
+                    </div></a>
+                </div>
+            <% }); %>
+
+            <div class="slider-arrow">
+                <svg width="14.6" height="27" viewBox="0 0 16 27" xmlns="http://www.w3.org/2000/svg" class="_2-wzdc"><path d="M16 23.207L6.11 13.161 16 3.093 12.955 0 0 13.161l12.955 13.161z" fill="#000" class="FXox6K"></path></svg>
+            </div>
+        </div>
+    </div>
+    <div class="deals-ad">
+        <a href="#"><img class="_14mA3H" src="https://web.archive.org/web/20211207232425im_/https://rukminim1.flixcart.com/flap/464/708/image/a33323ee3a5b0bc5.jpg?q=70" alt="Wedding"></a>
+    </div>
+</div>

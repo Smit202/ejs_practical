@@ -1,0 +1,194 @@
+{
+    "navbar": {
+        "searchbar": ["mobiles", "shoes", "t-shirts", "laptops", "watches", "tv", "sarees"],
+
+        "login": [
+            {
+                "icon": "fa-solid fa-circle-user",
+                "option": "My Profile"
+            },
+            {
+                "icon": "fa-solid fa-circle-plus",
+                "option": "Flipkart Plus Zone"
+            },
+            {
+                "icon": "fa-sharp fa-solid fa-cart-plus",
+                "option": "Orders"
+            },
+            {
+                "icon": "fa-solid fa-heart",
+                "option": "Wishlist"
+            },
+            {
+                "icon": "fa-sharp fa-solid fa-award",
+                "option": "Rewards"
+            },
+            {
+                "icon": "fa-solid fa-gift",
+                "option": "Giftcards"
+            }
+        ],
+
+        "more": [
+            {
+                "icon": "fa-solid fa-bell",
+                "option": "Notification Preferences"
+            },
+            {
+                "icon": "fa-sharp fa-solid fa-question",
+                "option": "24X7 Customer Care"
+            },
+            {
+                "icon": "fa-solid fa-rectangle-ad",
+                "option": "Advertise"
+            },
+            {
+                "icon": "fa-regular fa-circle-down",
+                "option": "Download App"
+            }
+        ]
+    },
+
+    "categories": [
+        {
+            "image": "https://rukminim1.flixcart.com/flap/128/128/image/29327f40e9c4d26b.png?q=100",
+            "name": "Grocery",
+            "hasDropdown": false
+        },
+        {
+            "image": "https://rukminim1.flixcart.com/flap/128/128/image/22fddf3c7da4c4f4.png?q=100",
+            "name": "Mobiles",
+            "hasDropdown": false
+        },
+        {
+            "image": "https://rukminim1.flixcart.com/flap/128/128/image/c12afc017e6f24cb.png?q=100",
+            "name": "Fashion",
+            "hasDropdown": true
+        },
+        {
+            "image": "https://rukminim1.flixcart.com/flap/128/128/image/69c6589653afdb9a.png?q=100",
+            "name": "Electronics",
+            "hasDropdown": true
+        },
+        {
+            "image": "https://rukminim1.flixcart.com/flap/128/128/image/ab7e2b022a4587dd.jpg?q=100",
+            "name": "Home",
+            "hasDropdown": true
+        },
+        {
+            "image": "https://rukminim1.flixcart.com/flap/128/128/image/0ff199d1bd27eb98.png?q=100",
+            "name": "Appliances",
+            "hasDropdown": false
+        },
+        {
+            "image": "https://rukminim1.flixcart.com/flap/128/128/image/71050627a56b4693.png?q=100",
+            "name": "Travel",
+            "hasDropdown": false
+        },
+        {
+            "image": "https://rukminim1.flixcart.com/flap/128/128/image/f15c02bfeb02d15d.png?q=100",
+            "name": "Top Offers",
+            "hasDropdown": false
+        },
+        {
+            "image": "https://rukminim1.flixcart.com/flap/128/128/image/dff3f7adcf3a90c6.png?q=100",
+            "name": "Beuty, Toys & More",
+            "hasDropdown": true
+        },
+        {
+            "image": "https://rukminim1.flixcart.com/fk-p-flap/128/128/image/05d708653beff580.png?q=100",
+            "name": "Two Wheelers",
+            "hasDropdown": true
+        }
+    ],
+
+    "deals": [
+        {
+            "image": "https://rukminim1.flixcart.com/image/128/128/ku2zjww0/watch/l/y/q/3274nm01-fastrack-men-original-imag7a4nhy8sz4v6.jpeg?q=90",
+            "title": "Casio, Fasttrack, Sonata...",
+            "Offer": "Upto 80%+Extra 10%Off",
+            "feature": "Knockout Deals"
+        },
+        {
+            "image": "https://rukminim1.flixcart.com/image/128/128/xif0q/home-temple/r/g/m/11-11-0-449-shyam-6954-khatushyam-14-original-imagjsey347xhgnh.jpeg?q=90",
+            "title": "Home, Temples & More",
+            "Offer": "Extra 10%Off",
+            "feature": "Space Saving Furniture"
+        },
+        {
+            "image": "https://rukminim1.flixcart.com/image/128/128/kvzkosw0/cases-covers/flip-cover/g/7/k/cel-12354-celzo-original-imag8rz5ndqdakff.jpeg?q=90",
+            "title": "Premium Tablet Cases",
+            "Offer": "Extra 10%Off",
+            "feature": "For All Top Models"
+        },
+        {
+            "image": "https://rukminim1.flixcart.com/image/128/128/jzlldow0/wall-clock/a/v/g/wall-clock-w0032ga01-analog-titan-original-imafjksdn5jfnzpg.jpeg?q=90",
+            "title": "Best of Home Decor",
+            "Offer": "From &#8377 79",
+            "feature": "Lowest Price Ever"
+        },
+        {
+            "image": "https://rukminim1.flixcart.com/image/128/128/kpcy5jk0/shirt/f/3/v/xl-shirts-shirts-boys-men-combo-shirt-boy-style-trendy-shirts-original-imag3hwdfzpy8r4v.jpeg?q=90",
+            "title": "Metronaut, Provogue & ...",
+            "Offer": "From &#8377 259+Extra 10%Off",
+            "feature": "Jackets, Dresses & More"
+        },
+        {
+            "image": "https://rukminim1.flixcart.com/image/128/128/kvvad8w0/mobile/c/1/t/-original-imag8z7w3b42bjzy.jpeg?q=90",
+            "title": "LAVA A1500",
+            "Offer": "Flat &#8377 830 Off",
+            "feature": "Now &#8377 999"
+        },
+        {
+            "image": "https://rukminim1.flixcart.com/image/128/128/kvvad8w0/mobile/c/1/t/-original-imag8z7w3b42bjzy.jpeg?q=90",
+            "title": "LAVA A1500",
+            "Offer": "Flat &#8377 830 Off",
+            "feature": "Now &#8377 999"
+        },
+        {
+            "image": "https://rukminim1.flixcart.com/image/128/128/ku2zjww0/watch/l/y/q/3274nm01-fastrack-men-original-imag7a4nhy8sz4v6.jpeg?q=90",
+            "title": "Casio, Fasttrack, Sonata...",
+            "Offer": "Upto 80%+Extra 10%Off",
+            "feature": "Knockout Deals"
+        }
+    ],
+
+    "instruments": [
+        {
+            "image": "https://rukminim1.flixcart.com/image/416/416/ky0g58w0/harmonium/f/j/e/harmonium-bass-male-two-reeds-finish-lacquer-7-stopper-5-stops-2-original-imagacdhaxzruhcd.jpeg?q=90",
+            "title": "Harmoniums",
+            "Offer": "Upto 60%Off",
+            "feature": "Shop Now!"
+        },
+        {
+            "image": "https://rukminim1.flixcart.com/image/612/612/jxxkvww0/flute/u/q/p/g-cola-music-original-imafga4hkxyjcxhc.jpeg?q=90",
+            "title": "Flutes",
+            "Offer": "Upto 80%Off",
+            "feature": "Shop Now!"
+        },
+        {
+            "image": "https://rukminim1.flixcart.com/image/612/612/k01b8280/acoustic-guitar/5/n/z/rvl-38c-lgp-3ts-revel-original-imafjx6gxggbsxtr.jpeg?q=90",
+            "title": "Acoustic Guitars",
+            "Offer": "From &#8377 1799",
+            "feature": "Jaurez, Revel, .."
+        },
+        {
+            "image": "https://rukminim1.flixcart.com/image/612/612/kuef2q80/microphone-accessory/x/m/7/condenser-microphone-bundle-bm-800-mic-kit-with-live-sound-card-original-imag7gyjbvcefsyn.jpeg?q=90",
+            "title": "Musical Accesories",
+            "Offer": "Upto 80%Off",
+            "feature": "Shop Now!"
+        },
+        {
+            "image": "https://rukminim1.flixcart.com/image/612/612/kqpj4i80/microphone-accessory/b/f/t/orchestral-stand-for-lyrics-heavy-notation-music-stands-for-original-imag4n3ebbcgtncf.jpeg?q=90",
+            "title": "Microphone Accesories",
+            "Offer": "Upto 80%Off",
+            "feature": "Shop Now!"
+        },
+        {
+            "image": "https://rukminim1.flixcart.com/image/612/612/jzu60sw0/acoustic-guitar/z/t/4/rvl-38c-lpg-bls-revel-original-imafjrkncwveagk5.jpeg?q=90",
+            "title": "Acoustic Guitars",
+            "Offer": "From &#8377 1999",
+            "feature": "By Revel"
+        }
+    ]
+}
